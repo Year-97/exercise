@@ -1,3 +1,3 @@
-# exercise 
+# exercise fork
 
-Fork is for pasta.
+Fork is for pasta
